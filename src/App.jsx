@@ -13,7 +13,7 @@ function App() {
         <img src={reactLogo} className="logo react" alt="React logo" />
       </div>
       <h1>Vite + React</h1>
-      <p>Hi, this is SKILL 3 - Applying CI/CD for react project using git actions</p>
+      <p>Hi, this is SKILL 3 - Applying CI/CD for react project using GitHub Actions</p>
       <p>count is {count}</p>
       <button onClick={() => setCount(count + 1)}>Increase Count</button>
     </div>
